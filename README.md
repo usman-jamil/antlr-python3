@@ -19,5 +19,6 @@
  - Type: mvn compile
  - Type: mvn package
  - Open a seperate cmd window and navigate to the target folder
+ - Make sure you put "functions.py" file in your target folder before running below command
  - execute command: java -jar python3.parser-1.0-jar-with-dependencies.jar
  - You should be able to see the output
